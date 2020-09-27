@@ -1,3 +1,10 @@
+firechat
+
+A small chat app using react and firebase created from fireship.io tutorial for purpose of learning firebase.
+
+<img src="/images/firechat.png />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
